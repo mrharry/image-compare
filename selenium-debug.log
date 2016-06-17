@@ -1,0 +1,23 @@
+05:21:41.447 INFO - Launching a standalone Selenium Server
+05:21:41.517 INFO - Java: Oracle Corporation 25.71-b15
+05:21:41.517 INFO - OS: Mac OS X 10.10.5 x86_64
+05:21:41.540 INFO - v2.52.0, with Core v2.52.0. Built from revision 4c2593c
+05:21:41.615 INFO - Driver provider org.openqa.selenium.ie.InternetExplorerDriver registration is skipped:
+registration capabilities Capabilities [{ensureCleanSession=true, browserName=internet explorer, version=, platform=WINDOWS}] does not match the current platform MAC
+05:21:41.615 INFO - Driver provider org.openqa.selenium.edge.EdgeDriver registration is skipped:
+registration capabilities Capabilities [{browserName=MicrosoftEdge, version=, platform=WINDOWS}] does not match the current platform MAC
+05:21:41.615 INFO - Driver class not found: com.opera.core.systems.OperaDriver
+05:21:41.615 INFO - Driver provider com.opera.core.systems.OperaDriver is not registered
+05:21:41.791 INFO - RemoteWebDriver instances should connect to: http://127.0.0.1:4444/wd/hub
+05:21:41.791 INFO - Selenium Server is up and running
+05:21:42.991 INFO - Executing: [new session: Capabilities [{acceptSslCerts=true, name=Image Comp1, browserName=chrome, javascriptEnabled=true, platform=ANY}]])
+05:21:43.004 INFO - Creating a new session for Capabilities [{acceptSslCerts=true, name=Image Comp1, browserName=chrome, javascriptEnabled=true, platform=ANY}]
+Starting ChromeDriver 2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b) on port 19994
+Only local connections are allowed.
+05:21:44.907 INFO - Done: [new session: Capabilities [{acceptSslCerts=true, name=Image Comp1, browserName=chrome, javascriptEnabled=true, platform=ANY}]]
+05:21:44.918 INFO - Executing: [get: http://www.lombard.co.uk/asset-finance/])
+05:21:47.270 INFO - Done: [get: http://www.lombard.co.uk/asset-finance/]
+05:21:47.275 INFO - Executing: [take screenshot])
+05:21:48.433 INFO - Done: [take screenshot]
+05:21:48.674 INFO - Executing: [delete session: 1185e45d-76f4-43ee-bbd1-69f4c015c47c])
+05:21:48.862 INFO - Done: [delete session: 1185e45d-76f4-43ee-bbd1-69f4c015c47c]

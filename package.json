@@ -1,0 +1,17 @@
+{
+  "name": "imageComp",
+  "version": "0.0.1",
+  "description": "",
+  "main": "gruntfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "nodes": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stuart1"
+}
